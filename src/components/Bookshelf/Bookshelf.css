@@ -1,0 +1,12 @@
+.bookShelfDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.bookCardsDiv {
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
